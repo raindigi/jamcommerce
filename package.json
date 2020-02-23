@@ -28,7 +28,7 @@
         "dedent": "0.7.0",
         "dotenv": "^4.0.0",
         "gatsby": "^1.9.149",
-        "gatsby-cli": "1.1.10",
+        "gatsby-cli": "1.1.58",
         "gatsby-link": "1.6.13",
         "gatsby-plugin-react-helmet": "1.0.1",
         "gatsby-source-filesystem": "1.4.6",
