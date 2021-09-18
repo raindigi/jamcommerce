@@ -32,7 +32,7 @@
         "gatsby-link": "1.6.13",
         "gatsby-plugin-react-helmet": "1.0.1",
         "gatsby-source-filesystem": "1.4.6",
-        "gatsby-transformer-remark": "^1.7.26",
+        "gatsby-transformer-remark": "^4.0.0",
         "gocommerce-js": "4.1.1",
         "invariant": "2.2.2",
         "js-yaml": "3.9.1",
